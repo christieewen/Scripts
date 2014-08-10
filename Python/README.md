@@ -5,3 +5,7 @@ $./configure
 $./make
 $sudo make install
 $sudo pip install virtualenv --upgrade
+
+
+REFERENCES
+http://askubuntu.com/questions/50870/how-do-i-update-virtualenv
