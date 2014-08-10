@@ -9,3 +9,6 @@ $sudo pip install virtualenv --upgrade
 
 REFERENCES
 http://askubuntu.com/questions/50870/how-do-i-update-virtualenv
+
+Using different python version with virtualenv
+http://stackoverflow.com/questions/1534210/use-different-python-version-with-virtualenv
