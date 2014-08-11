@@ -13,6 +13,8 @@ $sudo pip install virtualenv --upgrade
 
 
 REFERENCES
+http://stackoverflow.com/questions/3813092/ubuntu-packages-needed-to-compile-python-2-7
+
 Follow these directions using apt-get instead of installing the hard way:
 http://askubuntu.com/questions/101591/how-do-I-install-python-2-7-2-on-ubuntu
 
